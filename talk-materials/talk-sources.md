@@ -10,7 +10,7 @@ Below is a list of all the sources and media I used for this talk.
 * Rosenblatt et al. (2024). [Data leakage inflates prediction performance in connectome-based machine learning models](https://www.nature.com/articles/s41467-024-46150-w.pdf).
 * Burchell (2015). [Interpreting linear regression coefficients](https://t-redactyl.io/blog/2015/10/interpreting-linear-regression-coefficients.html).
 * Chollet (2021). [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python). 
-* Vig (2019). [A Multiscale Visualization of Attention in the Transformer Model](https://aclanthology.org/P19-3007/).
+* Vig (2019). [A multiscale visualization of attention in the transformer model](https://aclanthology.org/P19-3007/).
 * Lahiri (2024). [The benchmark trap: Why LLM metrics mislead and evals enlighten](https://ribhulahiri.com/posts/llm-benchmarks/).
 * Hugging Face (2024). [Open LLM Leaderboard (now archived)](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard).
 * Abbas et al. (2024). [Comparing the Performance of Popular Large Language Models on the National Board of Medical Examiners Sample Questions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11007479/).
@@ -23,12 +23,14 @@ Below is a list of all the sources and media I used for this talk.
 * Li et al. (2024). [Can multiple-choice questions really be useful in detecting the abilities of LLMs?](https://arxiv.org/pdf/2403.17752v3)
 * Nezhurina et al. (2024). [Alice in Wonderland: Simple tasks showing complete reasoning breakdown in state-of-the-art large language models](https://arxiv.org/pdf/2406.02061).
 * Nest (2023). [LLM benchmarks: What do they all mean?](https://www.whytryai.com/p/llm-benchmarks)
-* LMSYS & UC Berkeley SkyLab (2024). [Chatbot Arena](https://lmarena.ai/).
-* [Andrej Karpathy](https://x.com/karpathy/status/1737544497016578453) on the Chatbot Arena.
+* LMSYS & UC Berkeley SkyLab (2024). [LM Arena](https://lmarena.ai/).
+* [Andrej Karpathy](https://x.com/karpathy/status/1737544497016578453) on the LM Arena.
+* Zhao et al. (2024). [Challenges in trustworthy human evaluation of chatbots](https://arxiv.org/pdf/2412.04363v1).
 * Horace He's [Codeforces example](https://x.com/cHHillee/status/1635790330854526981?t=bdVc5pxCn1P_GV3ZF91X6w&s=35).
 * Sayash Kapoor's [Codeforces example](https://x.com/sayashk/status/1638159652562038787).
 * Balloccu et al. (2024). [Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/pdf/2402.03927).
 * Villalobos et al. (2024). [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data](https://arxiv.org/pdf/2211.04325).
+* Whitwam (2025). [New study accuses LM Arena of gaming its popular AI benchmark](https://arstechnica.com/ai/2025/05/researchers-claim-lm-arenas-ai-leaderboard-is-biased-against-open-models/).
 * Sclar et al. (2024). [Quantifying language models’ sensitivity to spurious features in prompt design](https://openreview.net/pdf?id=RIu5lyNXjT).
 * Cao et al. (2024). [On the worst prompt performance of large language models](https://arxiv.org/pdf/2406.10248).
 * Husain (2024). [Your AI product needs evals](https://hamel.dev/blog/posts/evals/).
